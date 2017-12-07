@@ -7,7 +7,7 @@ defined( 'ABSPATH' ) or
  * Makes it possible to clutter the functions.php into single files.
  *
  * @author kaiser
- * @author ialocin
+ * @author Nicolai
  * @link http://wordpress.stackexchange.com/q/111970/22534
  */
 
