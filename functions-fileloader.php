@@ -4,7 +4,7 @@
  Plugin URI:   https://github.com/grossherr/functions-fileloader
  GitHub Plugin URI: grossherr/functions-fileloader
  Description:  WordPress Plugin for loading files from the functions.php
- Version:      0.5
+ Version:      0.6
  Author:       Nicolai
  Author URI:   https://ngcorp.de
  License:      GPL3
