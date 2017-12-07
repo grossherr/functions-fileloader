@@ -2,7 +2,7 @@
 /*
  Plugin Name:  Functions Fileloader
  Plugin URI:   https://github.com/grossherr/functions-fileloader
- GitHub Plugin URI: grossherr/functions-fileloader
+ GitHub Plugin URI: https://github.com/grossherr/functions-fileloader
  Description:  WordPress Plugin for loading files from the functions.php
  Version:      0.6
  Author:       Nicolai
